@@ -1,3 +1,0 @@
-# EO
-# tes
-# eosm
