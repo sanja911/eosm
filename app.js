@@ -7,6 +7,7 @@ var mongoose = require('mongoose');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var owner = require('./routes/owner');
+var task = require('./routes/task')
 var project = require('./routes/project');
 var app = express();
 
